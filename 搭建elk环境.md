@@ -29,5 +29,5 @@ springboot：2.4.3
 ## 三、环境搭建
 
 **elk所有的版本都为统一版本，不能使用不同版本容易出现想象不到的问题！！！！**
-![版本截图](https://github.com/krystal961020/springboot-practice/tree/main/images/版本截图.png)
+![图片](https://github.com/krystal961020/springboot-practice/blob/main/images/elk_version.png)
 
