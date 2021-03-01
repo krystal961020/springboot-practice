@@ -35,26 +35,26 @@ springboot：2.4.3
 
 1、启动ES服务
 
-![es_start](F:\project\springboot-practice\images\es_start.png)
+![es_start](https://github.com/krystal961020/springboot-practice/tree/main/images/es_start.png)
 
 2、启动kibana服务
 
-![kibana](F:\project\springboot-practice\images\kibana.png)
+![kibana](https://github.com/krystal961020/springboot-practice/tree/main/images/kibana.png)
 
 3、配置logstash，在logstash的config目录下创建test.conf文件并添加相应内容
 
-![test_conf](F:\project\springboot-practice\images\test_conf.png)
+![test_conf](https://github.com/krystal961020/springboot-practice/tree/main/images/test_conf.png)
 
-![port](F:\project\springboot-practice\images\port.png)
+![port](https://github.com/krystal961020/springboot-practice/tree/main/images/port.png)
 
 4、配置logback.xml文件
 
-![logback_config](F:\project\springboot-practice\images\logback_config.png)
+![logback_config](https://github.com/krystal961020/springboot-practice/tree/main/images/logback_config.png)
 
 5、项目添加对应的jar包引用配置，由于用的是gradle所以添加下列信息
 
-![gradle](F:\project\springboot-practice\images\gradle.png)
+![gradle](https://github.com/krystal961020/springboot-practice/tree/main/images/gradle.png)
 
 6、然后启动项目打印的日志就能在kibana上看到了
 
-![result](F:\project\springboot-practice\images\result.png)
+![result](https://github.com/krystal961020/springboot-practice/tree/main/images/result.png)
